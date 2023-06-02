@@ -4,7 +4,7 @@ from langchain import FewShotPromptTemplate
 import json
 import os
 
-davinci = OpenAI(model_name='text-davinci-003', openai_api_key = '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')
+davinci = OpenAI(model_name='text-davinci-003', openai_api_key = '')
 
 davinci.temperature = 1.0  # increase creativity/randomness of output
 
