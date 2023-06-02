@@ -6,8 +6,8 @@ import concurrent.futures
 import googlemaps
 from langdetect import detect
 
-openai.api_key = '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'
-gmap_api_key = "AIzaSyC5goLM2ann_BQKVN4F6WR-FFJWlc_g8ao"
+openai.api_key = ''
+gmap_api_key = ""
 
 example = {"name": "Taipei",
            "country": "Taiwan",
