@@ -1,3 +1,3 @@
 # CitySpaces
 The [example.py](example.py) script was implemented without langchain.\
-The [langchain.py]() script is a langchain implementation.
+The [langchain.py](langChain.py) script is a langchain implementation.
