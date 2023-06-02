@@ -1,4 +1,4 @@
 # CitySpaces
-Generate travel blog posts with OpenAI
+These scripts generate travel blog posts with OpenAI.\
 The [example.py](example.py) script was implemented without langchain.\
 The [langchain.py](langChain.py) script is a langchain implementation.
